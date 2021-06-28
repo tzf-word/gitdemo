@@ -16,5 +16,6 @@ public class Test {
         System.out.println("hot-fix-secondversion");
         System.out.println("master-update");
         System.out.println("hot-fix");
+        System.out.println("pull-word-test");
     }
 }
