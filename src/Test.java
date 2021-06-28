@@ -13,5 +13,6 @@ public class Test {
         System.out.println("22222222");
         System.out.println("22222222");
         System.out.println("hot-fix-addword");
+        System.out.println("hot-fix-secondversion");
     }
 }
